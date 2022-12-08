@@ -1,8 +1,9 @@
 {
-  "name": "@activitree/react-masonry-component",
+  "name": "@robertforrest/react18-masonry-component",
   "version": "6.3.6",
   "main": "src/index",
   "description": "A masonry component for React.js",
+  "type": "module",
   "typings": "typings.d.ts",
   "scripts": {
     "prepare": "npm run build",
@@ -41,13 +42,11 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.6.1",
     "eslint-plugin-react": "^7.30.1",
-    "extract-text-webpack-plugin": "^3.0.2",
     "jest": "^28.1.3",
     "jest-fetch-mock": "^3.0.3",
     "postcss-loader": "^7.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-hot-loader": "^4.13.0",
     "react-syntax-highlighter": "^15.5.0",
     "react-test-renderer": "^18.2.0",
     "rimraf": "^3.0.2",
@@ -61,7 +60,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/activitree/react-masonry-component"
+    "url": "git://github.com/robert-forrest/react-masonry-component.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robert-forrest/react-masonry-component/issues"
+  },
+  "homepage": "https://github.com/robert-forrest/react-masonry-component#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "react",
+    "react-18",
+    "masonry"
+  ],
+  "author": ""
 }
