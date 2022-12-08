@@ -1,6 +1,6 @@
 {
   "name": "@robertforrest/react18-masonry-component",
-  "version": "6.3.6",
+  "version": "6.3.7",
   "main": "src/index",
   "description": "A masonry component for React.js",
   "type": "module",
